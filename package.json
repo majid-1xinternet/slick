@@ -1,11 +1,11 @@
 {
-  "name": "slick-carousel",
-  "version": "1.8.1",
-  "description": "the last carousel you'll ever need",
+  "name": "1x-slick-carousel",
+  "version": "1.8.3",
+  "description": "This is the fork of slick-carousel with font and performance fixes",
   "main": "slick/slick.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenwheeler/slick.git"
+    "url": "https://github.com/majid-1xinternet/slick.git"
   },
   "keywords": [
     "carousel",
@@ -38,6 +38,10 @@
     {
       "name": "ashley mcknight",
       "email": "ash@sharpteef.net"
+    },
+    {
+      "name": "majid",
+      "email": "m.ali@1xinternet.de"
     }
   ],
   "license": "MIT",
